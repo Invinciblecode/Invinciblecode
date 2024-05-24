@@ -5,6 +5,8 @@
 - 📫 How to reach me 
   my instagram account : @invinciblecode.dev
   https://www.instagram.com/invinciblecode.dev/
+- my discord account
+  username:invinciblecode
 - ⚡ Fun fact: G
 
 <!---
