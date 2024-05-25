@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Invinciblecode
+- 👋 Hi, I’m sam
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning advanced things about expressjs
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me 
   my instagram account : @invinciblecode.dev
   https://www.instagram.com/invinciblecode.dev/
-- my discord account
-  username:invinciblecode
+- my discord username:invinciblecode
 - ⚡ Fun fact: G
 
 <!---
